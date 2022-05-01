@@ -1,2 +1,2 @@
-# References
-1. [Build a Simple CRUD Blog with Streamlit and Python](https://blog.jcharistech.com/2020/05/21/build-a-simple-crud-blog-with-streamlit-and-python/)
+# lead_generation_apps
+A practical project for building the lead generation application using streamlist.
