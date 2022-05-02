@@ -11,7 +11,7 @@ import pandasql as ps
 
 @st.cache
 def load_data():
-    data = pd.read_csv('fake_data.csv')
+    data = pd.read_csv('Data/fake_data.csv')
     return data
 
 data = load_data()
